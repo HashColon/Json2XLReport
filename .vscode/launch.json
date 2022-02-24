@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": [
+                "/home/cadit/WTK/FelineExp/ExpReports2/Euclidean",
+                "/home/cadit/WTK/FelineExp/ExpReports2/ProjectedPCA",
+                "/home/cadit/WTK/FelineExp/ExpReports2/Hausdorff",
+                "/home/cadit/WTK/FelineExp/ExpReports2/ModifiedHausdorff",
+                "/home/cadit/WTK/FelineExp/ExpReports2/LCSS",
+                "/home/cadit/WTK/FelineExp/ExpReports2/DynamicTimeWarping",
+                "/home/cadit/WTK/FelineExp/ExpReports2/BlendedMetric",
+                //'"/home/cadit/WTK/FelineExp/ExpReports2/JsMetric",
+                //"/home/cadit/WTK/FelineExp/ExpReports2/EmdMetric",
+                "wonchul@147.46.234.38:/C:/FelineExp2/",
+                "ferret7069"
+            ]
+        }
+    ]
+}
